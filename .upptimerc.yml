@@ -5,10 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Bokbasen
     url: https://www.bokbasen.no
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Mentor
+    url: https://app.bokbasen.io
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
