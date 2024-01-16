@@ -4,19 +4,19 @@
     "url": "https://www.bokbasen.no",
     "icon": "https://icons.duckduckgo.com/ip3/www.bokbasen.no.ico",
     "slug": "bokbasen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 339,
-    "timeWeek": 356,
-    "timeMonth": 409,
-    "timeYear": 445,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 444,
+    "timeDay": 330,
+    "timeWeek": 352,
+    "timeMonth": 406,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 12
     }
   },
   {
