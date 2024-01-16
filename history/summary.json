@@ -4,7 +4,7 @@
     "url": "https://www.bokbasen.no",
     "icon": "https://icons.duckduckgo.com/ip3/www.bokbasen.no.ico",
     "slug": "bokbasen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 356,
     "timeMonth": 409,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   },
   {
     "name": "Mentor",
