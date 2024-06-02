@@ -4,7 +4,7 @@
     "url": "https://www.bokbasen.no",
     "icon": "https://icons.duckduckgo.com/ip3/www.bokbasen.no.ico",
     "slug": "bokbasen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 612,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2024-06-02": 0,
       "2024-01-17": 18,
       "2024-01-16": 12
     }
